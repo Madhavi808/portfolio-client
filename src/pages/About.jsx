@@ -20,6 +20,7 @@ const About = () => {
         <li>Tools: Git, GitHub, Postman, Jira, AWS</li>
         <li>Integrations: Xero, MYOB, QuickBooks, Repco, Burson</li>
       </ul>
+      
     </div>
   );
 };
