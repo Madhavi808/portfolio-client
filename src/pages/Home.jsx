@@ -69,7 +69,7 @@ const Home = () => {
         <p className="text-gray-700 mb-4">
           You can view or download my resume here:
         </p>
-        <a href="https://madhaviresume.tiiny.site/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline text-lg font-medium">
+        <a href="https://madhavivaghela.tiiny.site/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline text-lg font-medium">
           View Resume
         </a>
       </section>
